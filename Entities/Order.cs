@@ -1,8 +1,8 @@
-
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using compAndEnum.Entities.Enums;
-
+using System.Text;
 
 namespace compAndEnum.Entities
 {
